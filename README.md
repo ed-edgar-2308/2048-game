@@ -20,7 +20,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [2048 Game](https://ralph2308s.github.io/2048-game/)
+- [2048 Game](https://ed-edgar-2308.github.io/2048-game/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -33,7 +33,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 ```
-git clone git@github.com:ralph2308s/2048-game.git
+git clone git@github.com:ed-edgar-2308/2048-game.git
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -44,9 +44,9 @@ git clone git@github.com:ralph2308s/2048-game.git
 
 👤 **Ralph**
 
-- GitHub: [ralph2308s](https://github.com/ralph2308s)
-- Twitter: [ralph2308s](https://twitter.com/ralph2308s)
-- LinkedIn: [ralph2308s](https://www.linkedin.com/in/ralph2308s/)
+- GitHub: [Edgar](https://github.com/ed-edgar-2308)
+- Twitter: [Edgar](https://twitter.com/)
+- LinkedIn: [Edgar](https://www.linkedin.com/in/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
